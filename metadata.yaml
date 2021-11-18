@@ -1,0 +1,36 @@
+_repo: The-Story-of-Andre-Cornelis_66636
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Monkshood, G. F.
+    aliases:
+    - Clarke, W. J. (William James)
+    - Clarke, William James
+    birthdate: 1872
+    gutenberg_agent_id: '48475'
+    url: http://www.gutenberg.org/2009/agents/48475
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2021-10-31'
+identifiers:
+  gutenberg: '66636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of André Cornélis
+url: http://www.gutenberg.org/ebooks/66636
