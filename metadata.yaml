@@ -9,6 +9,9 @@ contributor:
     birthdate: 1872
     gutenberg_agent_id: '48475'
     url: http://www.gutenberg.org/2009/agents/48475
+covers:
+- cover_type: archival
+  image_path: 66636-h/images/cornelis_cover.jpg
 creator:
   author:
     agent_name: Bourget, Paul
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Bourget
     - https://fr.wikipedia.org/wiki/Paul_Bourget
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66636#The-Story-of-Andre-Cornelis
 gutenberg_issued: '2021-10-31'
 identifiers:
   gutenberg: '66636'
